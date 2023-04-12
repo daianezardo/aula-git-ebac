@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Daiane
+-Profissão: QA
+-Cidade: Florianópolis, SC
+-O que faz nas horas vaga: Leio, pratico inglês no app Duolingo, uso as redes sociais para entretenimento e passeio com meu cachorro.
+-Feedback sobre o curso Qualidade de Software: Excelente cronograma. Nota 10!
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma muito intuitiva e organizada.
 
 Obrigado!!!
 
